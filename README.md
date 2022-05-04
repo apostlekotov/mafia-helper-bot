@@ -23,6 +23,6 @@ python3 bot.py
 
 ### Author
 
-- **Kotov** (kotov.smtp@gmail.com)
+**Paul Kotov** (paul@kotov.com.ua)
 
-Made with love <3
+Made with love ❤️
